@@ -1,2 +1,6 @@
 This is line1
+<<<<<<< HEAD
 this is modified in main
+=======
+This is line2
+>>>>>>> feature-branch
